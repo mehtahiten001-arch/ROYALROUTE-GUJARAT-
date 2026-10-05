@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="0"
+        android:translateY="0">
+        <!-- Royal Crown Motif on top of bus -->
+        <!-- Center Crown Peak -->
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M 54,23 L 57.5,29 L 63,25 L 60.5,33 L 47.5,33 L 45,25 L 50.5,29 Z" />
+        <path
+            android:fillColor="#FFA000"
+            android:pathData="M 48,33 L 60,33 L 59,35 L 49,35 Z" />
+
+        <!-- Luxury Sleeper Coach Body -->
+        <!-- Main Chassis -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M 33,40 C 33,37 36,36 40,36 L 68,36 C 72,36 75,37 75,40 L 75,67 C 75,69 73,71 71,71 L 67,71 C 67,67.5 64,65 60.5,65 C 57,65 54,67.5 54,71 L 44,71 C 44,67.5 41,65 37.5,65 C 34,65 31,67.5 31,71 L 30,71 C 28.5,71 27,69.5 27,68 L 27,51 C 27,45 30,41 33,40 Z" />
+
+        <!-- Windshield / Upper Deck Glass (Luxury aerodynamic shape) -->
+        <path
+            android:fillColor="#0D1B2A"
+            android:pathData="M 32,44 C 34,42 37,40 42,40 L 49,40 L 49,49 L 30,49 C 30,46.5 31,45 32,44 Z" />
+
+        <!-- Upper Sleeper Windows -->
+        <path
+            android:fillColor="#0D1B2A"
+            android:pathData="M 52,40 L 59,40 L 59,45 L 52,45 Z" />
+        <path
+            android:fillColor="#0D1B2A"
+            android:pathData="M 61,40 L 72,40 C 72.8,40 73.5,40.7 73.5,41.5 L 73.5,45 L 61,45 Z" />
+
+        <!-- Lower Deck Windows -->
+        <path
+            android:fillColor="#0D1B2A"
+            android:pathData="M 31,52 L 49,52 L 49,59 L 31,59 Z" />
+        <path
+            android:fillColor="#0D1B2A"
+            android:pathData="M 52,48 L 59,48 L 59,54 L 52,54 Z" />
+        <path
+            android:fillColor="#0D1B2A"
+            android:pathData="M 61,48 L 72,48 C 72.8,48 73.5,48.7 73.5,49.5 L 73.5,54 L 61,54 Z" />
+
+        <!-- Gold Luxury Accent Stripe across coach -->
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M 28.5,61 L 74,61 L 74,63 L 28.5,63 Z" />
+
+        <!-- Bus Wheels -->
+        <!-- Front Wheel (with gold rim) -->
+        <path
+            android:fillColor="#1B263B"
+            android:pathData="M 37.5,74 A 5,5 0 1 0 37.5,64 A 5,5 0 1 0 37.5,74" />
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M 37.5,71 A 2,2 0 1 0 37.5,67 A 2,2 0 1 0 37.5,71" />
+
+        <!-- Rear Wheel (with gold rim) -->
+        <path
+            android:fillColor="#1B263B"
+            android:pathData="M 60.5,74 A 5,5 0 1 0 60.5,64 A 5,5 0 1 0 60.5,74" />
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M 60.5,71 A 2,2 0 1 0 60.5,67 A 2,2 0 1 0 60.5,71" />
+
+        <!-- Headlights & Grill -->
+        <path
+            android:fillColor="#FFEA00"
+            android:pathData="M 28,58 L 30,58 L 30,60 L 28,60 Z" />
+        <path
+            android:fillColor="#E53935"
+            android:pathData="M 74,62 L 74.8,62 L 74.8,64 L 74,64 Z" />
+
+        <!-- Road Base Curve -->
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M 22,76 C 36,75 56,75 86,76 C 86,77 36,77 22,77 Z" />
+    </group>
+</vector>

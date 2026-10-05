@@ -1,0 +1,6 @@
+{
+  "name": "Royal Route Gujarat",
+  "description": "Luxury bus booking for Royal Route Gujarat featuring Dhari to Nathdwara routes, Upper & Lower sleeper seat layouts, UPI payments, and e-tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
